@@ -37,13 +37,15 @@ Para contribuir y apoyar financieramente al proyecto, tengo un [patreon](https:/
 
 ## Entrenamiento en Video
 
-También tengo material disponible en video. Enseño a través de [Frontend Masters](https://FrontendMasters.com). You can find [all my courses here](https://frontendmasters.com/kyle-simpson/).
+También tengo material disponible en video. Enseño a través de [Frontend Masters](https://FrontendMasters.com). Puede encontrar [todos mis cursos aquí](https://frontendmasters.com/kyle-simpson/).
 
 *NdT: El enlace pertenece al autor original.*
 
 ## Contribuciones
 
-These first-edition books are complete and published and will not be changed in any way, so there's no further need for contributions. They will remain here for posterity, but are not being maintained. See the [2nd edition books](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) for the active work in this repository.
+La primer edición de los libros está completa y publicada, y no será modificada en ninguna forma, por lo que no hay necesidad de contribuciones. Se mantendrán aquí para la posteridad, pero no serán mantenidos. Se está trabajando activamente en la [2° edición](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed).
+
+*NdT: El enlace apunta al repositorio original, la 2° edición no será traducida por el momento.*
 
 ## Licencia y Copyright
 
