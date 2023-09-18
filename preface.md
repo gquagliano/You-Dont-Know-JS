@@ -1,21 +1,23 @@
 # You Don't Know JS
-# Preface
+# Prefacio
 
-I'm sure you noticed, but "JS" in the book series title is not an abbreviation for words used to curse about JavaScript, though cursing at the language's quirks is something we can probably all identify with!
+Seguramente lo hayas notado, pero el "JS" en el título no es una abrevación de palabras usadas para maldecir JavaScript, ¡aunque maldecir las peculiaridades del lenguaje es algo con lo que probablemente todos nos podemos identificar!
 
-From the earliest days of the web, JavaScript has been a foundational technology that drives interactive experience around the content we consume. While flickering mouse trails and annoying pop-up prompts may be where JavaScript started, nearly 2 decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world's most widely available software platform: the web.
+*NdT: "JS" (coloquialmente, no como abreviación de "JavaScript") puede utilizarse luego de un comentario hiriente o grosero.*
 
-But as a language, it has perpetually been a target for a great deal of criticism, owing partly to its heritage but even more to its design philosophy. Even the name evokes, as Brendan Eich once put it, "dumb kid brother" status next to its more mature older brother "Java". But the name is merely an accident of politics and marketing. The two languages are vastly different in many important ways. "JavaScript" is as related to "Java" as "Carnival" is to "Car".
+Desde los primeros días de la web, JavaScript ha sido una tecnología fundamental que impulsa la experiencia interactiva en el contenido que consumimos. Mientras efectos del cursor y pop-ups molestos pueden ser donde comenzó JavaScript, casi 2 décadas después, la tecnonlogía y capacidades de JavaScript han crecido en varios órdenes de magnitud, y quedan pocas dudas de la importancia en el núcleo de la plataforma de software más extensa del mundo: la web.
 
-Because JavaScript borrows concepts and syntax idioms from several languages, including proud C-style procedural roots as well as subtle, less obvious Scheme/Lisp-style functional roots, it is exceedingly approachable to a broad audience of developers, even those with just little to no programming experience. The "Hello World" of JavaScript is so simple that the language is inviting and easy to get comfortable with in early exposure.
+Pero como lenguaje, siempre ha sido objeto de mucha crítica, debido en parte a su herencia, pero más que nada a su filosofía de diseño. Incluso el nombre evoca, como dijo Brendan Eich, reputación de "hermano menor tonto" al lado de su más maduro hermano mayor "Java". Pero el nombre es meramente un accidente de marketing. Ambos lenguajes son vastamente distintos en formas importantes. "JavaScript" está tan emparentado con "Java" como "Autor" lo está a "Auto".
 
-While JavaScript is perhaps one of the easiest languages to get up and running with, its eccentricities make solid mastery of the language a vastly less common occurrence than in many other languages. Where it takes a pretty in-depth knowledge of a language like C or C++ to write a full-scale program, full-scale production JavaScript can, and often does, barely scratch the surface of what the language can do.
+Como JavaScript toma prestados conceptos y sintaxis de múltiples lenguajes, incluyendo orgullosas raíces procedurales estilo C como así también sutiles, menos obvias, raíces funcionales estilo Scheme/Lisp, es extremadamente accesible para una amplia gama de desarrolladores, incluso aquellos con poca o nula experiencia en programación. El "Hola Mundo" de JavaScript es tan simple que el lenguaje se vuelve atractivo y confortable desde el primer contacto.
 
-Sophisticated concepts which are deeply rooted into the language tend instead to surface themselves in *seemingly* simplistic ways, such as passing around functions as callbacks, which encourages the JavaScript developer to just use the language as-is and not worry too much about what's going on under the hood.
+Mientras JavaScript es quizás uno de los lenguajes más fáciles para comenzar, sus excentricidades hacen que el dominio sólido del lenguaje sea menos común que en muchos otros casos. Hace falta un conocimiento profundo de un lenguaje como C o C++ para escribir un programa completo, pero hacerlo en JavaScript puede, y suele, apenas hacer uso de una mínima parte de lo que el leguaje puede hacer.
 
-It is simultaneously a simple, easy-to-use language that has broad appeal, and a complex and nuanced collection of language mechanics which without careful study will elude *true understanding* even for the most seasoned of JavaScript developers.
+Conceptos sofisticados que están profundamente arraigados en el lenguaje, tienden a mostrarse a sí mismos en formas *aparentemente* simples, como pasar funciones como callbacks, lo cual alienta al desarrollador JavaScript a simplemente usar el lenguaje como viene, sin preocuparse mucho sobre cómo funciona por dentro.
 
-Therein lies the paradox of JavaScript, the Achilles' Heel of the language, the challenge we are presently addressing. Because JavaScript *can* be used without understanding, the understanding of the language is often never attained.
+Es a la vez un lenguaje simple, fácil de usar, muy atractivo, y una colección compleja y matizada de mecanismos que sin un estudio cuidadoso pueden eludir el *verdadero entendimiento* incluso para el más experimentado desarrollador JavaScript.
+
+Ahí se encuentra la paradoja de JavaScript, el talón de Aquiles del lenguaje, el desafío que estamos abordando aquí. Porque como JavaScript *puede* ser usado sin entenderlo, la comprensión del lenguaje puede nunca lograrse.
 
 ## Mission
 
